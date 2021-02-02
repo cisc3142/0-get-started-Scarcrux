@@ -1,8 +1,8 @@
 #include <iostream>
 
 /*
-Jonathan Scarpelli
-Homework 0
+  Jonathan Scarpelli
+  Homework 0
 */
 
 using namespace std;
